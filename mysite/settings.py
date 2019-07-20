@@ -8,6 +8,9 @@ https://docs.djangoproject.com/en/2.0/topics/settings/
 
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/2.0/ref/settings/
+
+API token python anywhere: fc69d2d9cbf20ee162305dc14945793adb9d3d14
+
 """
 
 import os
